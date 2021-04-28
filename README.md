@@ -15,5 +15,5 @@ StreamInventory can inventory all videos for a classic Stream
 ```
 
 ## Release
-You can download the compiled zip file from [StreamInventory.zip](.\Binary\StreamInventory.zip)
+You can download the compiled zip file from [StreamInventory.zip](./Binary/StreamInventory.zip)
 
