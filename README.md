@@ -14,5 +14,6 @@ StreamInventory can inventory all videos for a classic Stream
     </appSettings>
 ```
 
-
+## Release
+You can download the compiled zip file from [StreamInventory.zip](.\Binary\StreamInventory.zip)
 
