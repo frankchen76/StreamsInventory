@@ -2,6 +2,8 @@
 
 StreamInventory can inventory all videos for a classic Stream
 
+![a demo gif](./demo.gif "Demo")
+
 ## Instructure
 
 * update tenant URL based on your Classic Stream site in app.config
@@ -11,4 +13,5 @@ StreamInventory can inventory all videos for a classic Stream
         <add key="StartPageIndex" value="0"/>
     </appSettings>
 ```
+
 
